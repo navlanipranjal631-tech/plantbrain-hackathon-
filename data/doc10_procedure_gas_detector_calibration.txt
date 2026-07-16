@@ -1,0 +1,25 @@
+SAFETY PROCEDURE: SP-031
+Title: Fixed and Portable Gas Detector Calibration Procedure
+Applicable Areas: All zones with installed gas detection systems.
+Revision: 2
+Effective Date: 1 January 2025
+
+1. PURPOSE
+To ensure gas detectors provide accurate, reliable readings for early
+warning of hazardous gas accumulation.
+
+2. PROCEDURE
+2.1 All fixed gas detectors must be calibrated at intervals not exceeding
+90 days using certified calibration gas.
+2.2 Portable gas detectors issued to personnel entering confined spaces
+must be bump-tested before every use and fully calibrated monthly.
+2.3 Any detector failing calibration must be immediately removed from
+service and replaced with a calibrated unit; the affected zone must be
+flagged as having reduced monitoring coverage until replacement occurs.
+2.4 Calibration records must be logged and retained for a minimum of 3
+years for regulatory audit purposes.
+
+3. RESPONSIBILITY
+Instrumentation Department is responsible for calibration scheduling and
+execution. Area Safety Officer must be notified immediately if any zone's
+detector coverage is reduced due to a failed unit awaiting replacement.

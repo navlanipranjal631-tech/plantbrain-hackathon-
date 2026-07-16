@@ -1,0 +1,13 @@
+MAINTENANCE WORK ORDER #WO-2159
+Equipment: Motor-11 (Conveyor Drive Motor, Zone C)
+Date: 20 July 2025
+Location: Zone C, Material Handling Area
+Reported Issue: Unusual noise and intermittent tripping on overload relay.
+Technician: S. Iyer
+Action Taken: Winding insulation resistance tested, found within acceptable
+range (450 MOhm, minimum acceptable 100 MOhm). Overload relay setting found
+misconfigured at 85% of rated current instead of specified 100%. Relay
+setting corrected. Coupling alignment checked and corrected using laser
+alignment tool.
+Status: Closed
+Next Scheduled Inspection: 20 October 2025

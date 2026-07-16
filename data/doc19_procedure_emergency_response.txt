@@ -1,0 +1,34 @@
+SAFETY PROCEDURE: SP-002
+Title: Emergency Response and Evacuation Procedure
+Applicable Areas: Entire facility.
+Revision: 6
+Effective Date: 1 January 2025
+
+1. PURPOSE
+To ensure a coordinated, rapid response to any confirmed gas leak, fire,
+explosion, or other emergency condition, minimizing harm to personnel.
+
+2. TRIGGER CONDITIONS
+Emergency response is to be initiated immediately upon:
+2.1 Any fixed or portable gas detector reading exceeding 10% LEL, or
+toxic gas levels exceeding Factory Act permissible limits (see SP-031,
+regulatory reference doc16).
+2.2 Confirmed fire or explosion, regardless of scale.
+2.3 Loss of structural integrity of any pressure vessel or gas line.
+
+3. RESPONSE STEPS
+3.1 Sound area alarm and initiate evacuation of the affected zone and
+adjacent zones within 50 meters.
+3.2 Shift Supervisor to notify Emergency Response Team and Area Safety
+Officer immediately.
+3.3 All active permits (hot work, confined space entry) within the
+affected zone must be suspended immediately.
+3.4 Emergency Response Team to assess and contain the incident; external
+agencies (fire brigade, DGMS as applicable) to be notified per statutory
+timelines.
+3.5 A preliminary incident report must be filed within 24 hours,
+documenting sensor readings, timeline, and response actions taken.
+
+4. RESPONSIBILITY
+Shift Supervisor is responsible for initiating the first response.
+Emergency Response Team Lead is responsible for on-scene coordination.

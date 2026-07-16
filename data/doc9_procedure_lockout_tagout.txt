@@ -1,0 +1,26 @@
+SAFETY PROCEDURE: SP-009
+Title: Lockout-Tagout (LOTO) Procedure for Rotating Equipment
+Applicable Areas: All pumps, motors, compressors, and conveyor drives.
+Revision: 5
+Effective Date: 1 January 2025
+
+1. PURPOSE
+To prevent unexpected energization or start-up of equipment during
+maintenance or servicing.
+
+2. PROCEDURE
+2.1 Before any maintenance work on rotating equipment (pumps, motors,
+compressors, conveyors), the equipment must be electrically isolated at
+the source breaker.
+2.2 A physical lock and tag must be applied by the technician performing
+the work; only that technician may remove it.
+2.3 Zero-energy verification must be performed by attempting a start
+command at the local control panel before work begins.
+2.4 For equipment with stored mechanical energy (e.g. tensioned belts,
+elevated loads), additional mechanical restraint is required before LOTO
+is considered complete.
+
+3. RESPONSIBILITY
+The technician performing the work is responsible for applying and
+removing their own lock. Shift Supervisor must verify LOTO compliance
+during routine shift rounds.

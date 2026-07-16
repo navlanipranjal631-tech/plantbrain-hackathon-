@@ -1,0 +1,18 @@
+REGULATORY REFERENCE EXCERPT
+Standard: IS 10816 (Mechanical Vibration Evaluation of Machine Vibration by
+Measurements on Non-Rotating Parts)
+Relevant Clause Summary (for internal reference use):
+
+For medium-sized rotating machinery (pumps, motors in the 15-300 kW range,
+rigidly mounted), vibration severity is classified as follows:
+- Good: below 2.8 mm/s RMS
+- Acceptable: 2.8 to 4.5 mm/s RMS
+- Unsatisfactory: 4.5 to 7.1 mm/s RMS, corrective action required
+- Unacceptable: above 7.1 mm/s RMS, immediate shutdown recommended
+
+Equipment operating in the "Unsatisfactory" band should be scheduled for
+corrective maintenance within 30 days. Equipment in the "Unacceptable" band
+should be taken out of service immediately pending investigation.
+
+Internal facility policy sets the acceptable operating limit at 4.5 mm/s
+for cooling water and utility pumps, consistent with this standard.

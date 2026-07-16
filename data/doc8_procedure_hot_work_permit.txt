@@ -1,0 +1,31 @@
+SAFETY PROCEDURE: SP-021
+Title: Hot Work Permit Procedure
+Applicable Areas: All areas where welding, cutting, grinding, or any
+spark/flame-generating activity is performed.
+Revision: 3
+Effective Date: 1 January 2025
+
+1. PURPOSE
+To prevent fire and explosion hazards arising from hot work activities in
+proximity to flammable materials or gas-hazard areas.
+
+2. PRE-WORK REQUIREMENTS
+2.1 A Hot Work Permit must be issued by the Area Safety Officer, valid for
+a single shift only.
+2.2 The work area must be checked for flammable gas concentration before
+work begins; readings must be below 10% LEL.
+2.3 Hot work permits must NOT be issued within 15 meters of any active gas
+pressure alarm zone or any location with an unresolved elevated gas reading
+in the preceding 4 hours.
+2.4 A fire watch with a charged extinguisher must be present for the
+duration of hot work and for 30 minutes after work completion.
+
+3. CROSS-REFERENCE
+This procedure must be read in conjunction with SP-014 (Confined Space
+Entry Procedure) when hot work is planned near confined space entry points,
+as simultaneous permits in the same zone are a recognized high-risk
+combination and are restricted under this facility's permit-to-work policy.
+
+4. RESPONSIBILITY
+Area Safety Officer is responsible for verifying gas readings and checking
+for conflicting active permits before issuing a hot work permit.

@@ -1,0 +1,12 @@
+MAINTENANCE WORK ORDER #WO-2045
+Equipment: Pump-204 (Cooling Water Circulation Pump)
+Date: 12 March 2025
+Location: Zone B, Cooling Tower Area
+Reported Issue: Abnormal vibration detected during routine shift inspection.
+Technician: R. Sharma
+Action Taken: Bearing inspection carried out. Bearing found worn beyond
+tolerance limit specified in OEM manual (max radial play 0.15mm, observed 0.31mm).
+Bearing replaced. Vibration levels normalized to 2.1 mm/s (within IS 10816
+acceptable limit of 4.5 mm/s for this equipment class).
+Status: Closed
+Next Scheduled Inspection: 12 June 2025

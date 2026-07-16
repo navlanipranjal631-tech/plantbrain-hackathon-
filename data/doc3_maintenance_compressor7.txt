@@ -1,0 +1,13 @@
+MAINTENANCE WORK ORDER #WO-2077
+Equipment: Compressor-7 (Instrument Air Compressor, Zone A)
+Date: 2 April 2025
+Location: Zone A, Utility Block
+Reported Issue: High discharge temperature alarm triggered twice in one shift.
+Technician: A. Verma
+Action Taken: Air filter found heavily clogged, replaced. Cooling fan belt
+found loose, retensioned. Discharge temperature reduced from 118C to 94C
+(design limit 100C per OEM manual). Root cause: extended filter replacement
+interval beyond recommended 90 days (last replaced 165 days prior).
+Status: Closed
+Recommendation: Reduce filter replacement interval to 60 days during summer months.
+Next Scheduled Inspection: 2 July 2025

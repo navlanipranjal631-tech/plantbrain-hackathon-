@@ -1,0 +1,29 @@
+NEAR-MISS REPORT #NM-118
+Date: 25 September 2025
+Location: Zone A, Gas Manifold Area
+Reported By: Shift Operator, Night Shift
+
+DESCRIPTION:
+During night shift rounds, a portable gas detector reading of 8% LEL was
+recorded near the gas manifold, close to the permissible limit of 10% LEL
+specified in SP-021. A hot work permit was active in an adjacent bay at
+the time (approximately 12 meters away) for a pipe repair job. The reading
+was logged but not immediately escalated to the Area Safety Officer, as
+the operator judged it "still within limit." The hot work continued for
+another 40 minutes before the shift log was reviewed and the readings
+noted retrospectively.
+
+CONTRIBUTING FACTORS:
+1. Fixed gas detector GD-A-02 was out of service at the time (cross-ref
+IR-0342), meaning only intermittent portable readings were being taken
+instead of continuous monitoring.
+2. No automatic escalation trigger exists for readings approaching (but
+not exceeding) the 10% LEL threshold near active hot work.
+
+CORRECTIVE ACTION RECOMMENDED:
+Introduce a lower internal alert threshold (e.g. 6% LEL) that mandates
+immediate hot work suspension and re-assessment, rather than waiting for
+the full 10% LEL regulatory limit to be reached, particularly when fixed
+monitoring coverage is degraded.
+
+STATUS: Under review by Safety Committee.

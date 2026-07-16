@@ -1,0 +1,26 @@
+INSPECTION REPORT #IR-0342
+Type: Quarterly Safety & Equipment Inspection
+Zone: Zone A (Utility Block)
+Date: 18 September 2025
+Inspector: K. Nair (Area Safety Officer)
+
+FINDINGS:
+1. Compressor-7: Operating normally post filter replacement (cross-ref
+WO-2077). Discharge temperature within limits.
+2. Fixed gas detector GD-A-02 (Zone A, near gas manifold): FAILED
+calibration check on 18 September 2025. Unit removed from service same
+day. Replacement unit ordered, lead time approximately 10 days. Zone A
+gas manifold area has REDUCED monitoring coverage until replacement is
+installed (ref SP-031 clause 2.3).
+3. Valve-33 (Emergency Shutdown Valve): Functional test passed (cross-ref
+WO-2244).
+4. Hot work permits issued in Zone A during the inspection period: 3.
+Reviewer note: none were flagged against the current gas detector outage,
+as the outage began after two of the three permits were closed. The third
+permit (issued 19 September) should be reviewed against SP-021 clause 2.3
+given the ongoing detector coverage gap.
+
+OVERALL STATUS: Requires follow-up. Gas detector replacement to be
+expedited. Recommend restricting hot work permits within 15m of the
+affected manifold zone until GD-A-02 replacement is installed and
+calibrated.

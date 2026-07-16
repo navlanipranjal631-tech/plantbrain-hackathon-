@@ -1,0 +1,28 @@
+INCIDENT REVIEW REFERENCE #IRC-002
+Type: External Industry Reference Case (for internal training and RCA
+pattern-matching purposes only; not an incident at this facility)
+Source: Industry safety bulletin, referenced by Safety Committee
+
+SUMMARY:
+A coke oven battery facility experienced a fatal gas explosion when
+entrapped gases accumulated during a period of overlapping maintenance
+activity. Gas pressure sensors had recorded elevated readings prior to
+the incident, and permit-to-work records showed active work in the
+vicinity. However, no system existed to correlate the sensor readings
+with the active permit status in real time; the connection was only
+identified during the post-incident investigation.
+
+KEY LESSON FOR THIS FACILITY:
+This facility's SP-014 (Confined Space Entry) and SP-021 (Hot Work Permit)
+procedures already prohibit issuing overlapping permits without a
+documented risk assessment (ref OISD-STD-105, doc15). However, near-miss
+NM-118 (cross-ref doc17) shows that in practice, gas readings approaching
+the threshold are not always cross-checked against active permits in
+real time, particularly when fixed gas monitoring coverage is degraded.
+The Safety Committee has flagged this as a priority gap: the facility has
+the individual data points (gas readings, permit records) but lacks a
+system that actively correlates them and raises an alert before a
+regulatory threshold is breached, rather than after.
+
+STATUS: Reference case retained for ongoing Safety Committee review of
+permit-gas correlation controls.

@@ -1,0 +1,34 @@
+SAFETY PROCEDURE: SP-014
+Title: Confined Space Entry Procedure
+Applicable Areas: All tanks, vessels, pits, coke oven battery chambers,
+and enclosed process equipment across the facility.
+Revision: 4
+Effective Date: 1 January 2025
+
+1. PURPOSE
+To ensure safe entry into confined spaces by controlling atmospheric,
+mechanical, and procedural hazards before and during entry.
+
+2. PRE-ENTRY REQUIREMENTS
+2.1 A valid Confined Space Entry Permit must be issued by the Area Safety
+Officer before any entry.
+2.2 Atmospheric testing is mandatory before entry: Oxygen level must be
+between 19.5% and 23.5%. Flammable gas concentration must be below 10% of
+Lower Explosive Limit (LEL). Toxic gas levels (H2S, CO) must be below
+permissible exposure limits as per Factory Act guidelines.
+2.3 Confined space entry permits must NOT be issued concurrently with hot
+work permits for the same or adjacent equipment unless a documented risk
+assessment confirms no gas migration pathway exists.
+2.4 Continuous gas monitoring is required throughout the duration of entry,
+with readings logged at intervals not exceeding 30 minutes.
+
+3. DURING ENTRY
+3.1 A trained attendant must remain stationed at the entry point at all
+times, maintaining continuous communication with personnel inside.
+3.2 If gas readings exceed safe limits at any point, entry must be aborted
+immediately and all personnel evacuated.
+
+4. RESPONSIBILITY
+Area Safety Officer is responsible for permit issuance. Shift Supervisor is
+responsible for verifying no conflicting hot work permits are active in the
+vicinity before authorizing entry.

@@ -1,0 +1,19 @@
+REGULATORY REFERENCE EXCERPT
+Standard: OISD-STD-105 (Work Permit System)
+Relevant Clause Summary (for internal reference use):
+
+1. No hot work permit shall be issued in an area where flammable gas
+concentration has been recorded above 10% LEL within the preceding 4 hours,
+until the area is re-tested and confirmed safe.
+2. Confined space entry and hot work permits shall not be active
+simultaneously within the same or adjacent equipment envelope, unless a
+documented job safety analysis specifically authorizes the combination
+with additional controls.
+3. All permits must be countersigned by the Area Safety Officer and
+displayed at the worksite for the duration of the activity.
+4. Facilities must maintain a live permit register, cross-checked at
+shift changeover, to prevent conflicting permits being active in
+overlapping zones.
+
+This standard forms the basis for facility-level procedures SP-014
+(Confined Space Entry) and SP-021 (Hot Work Permit).

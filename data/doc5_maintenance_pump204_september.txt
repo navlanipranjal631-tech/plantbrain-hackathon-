@@ -1,0 +1,15 @@
+MAINTENANCE WORK ORDER #WO-2201
+Equipment: Pump-204 (Cooling Water Circulation Pump)
+Date: 14 September 2025
+Location: Zone B, Cooling Tower Area
+Reported Issue: Shaft seal oil seepage (first flagged in WO-2118, 12 June 2025)
+has worsened. Visible leak pooling observed by operator during shift round.
+Technician: R. Sharma
+Action Taken: Pump shut down for emergency seal replacement. Mechanical seal
+found fully degraded. Root cause: seepage flagged in June was not escalated
+to a work order at the time; monitoring-only status allowed degradation to
+continue for 3 months without corrective action.
+Status: Closed
+Recommendation: Any seal seepage flagged as "monitor" should trigger a
+mandatory re-inspection within 30 days, not left to next scheduled cycle.
+Next Scheduled Inspection: 14 December 2025

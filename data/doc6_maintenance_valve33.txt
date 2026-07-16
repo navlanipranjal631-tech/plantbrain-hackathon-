@@ -1,0 +1,12 @@
+MAINTENANCE WORK ORDER #WO-2244
+Equipment: Valve-33 (Emergency Shutdown Valve, Zone A Gas Line)
+Date: 5 October 2025
+Location: Zone A, Utility Block
+Reported Issue: Scheduled quarterly functional test of emergency shutdown valve.
+Technician: A. Verma
+Action Taken: Valve stroke tested from full open to full closed. Closure time
+recorded at 4.2 seconds (specification requires closure within 5 seconds per
+safety instrumented system design). Actuator air supply pressure verified at
+6.2 bar (within 5.5-7.0 bar operating range). Test passed.
+Status: Closed
+Next Scheduled Inspection: 5 January 2026

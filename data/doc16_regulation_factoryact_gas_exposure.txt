@@ -1,0 +1,19 @@
+REGULATORY REFERENCE EXCERPT
+Standard: Factory Act - Permissible Exposure Limits (Toxic & Flammable Gas)
+Relevant Clause Summary (for internal reference use):
+
+1. Oxygen levels in any confined space must be maintained between 19.5%
+and 23.5% for safe entry.
+2. Hydrogen Sulphide (H2S) exposure must not exceed 10 ppm (8-hour
+time-weighted average); short-term exposure must not exceed 15 ppm for
+more than 15 minutes.
+3. Carbon Monoxide (CO) exposure must not exceed 50 ppm (8-hour
+time-weighted average).
+4. Flammable gas concentration must remain below 10% of the Lower
+Explosive Limit (LEL) for any occupied or work area.
+5. Continuous monitoring is required where historical data indicates
+gas accumulation risk, including coke oven battery areas and confined
+vessel interiors.
+
+These limits form the basis for atmospheric testing requirements specified
+in SP-014 (Confined Space Entry Procedure).

@@ -1,0 +1,26 @@
+NEAR-MISS REPORT #NM-095
+Date: 20 June 2025
+Location: Zone B, Cooling Tower Area
+Reported By: R. Sharma, Technician
+
+DESCRIPTION:
+During routine inspection of Pump-204 (cross-ref WO-2118), minor oil
+seepage was observed at the shaft seal and logged as "monitor, not yet
+critical." No follow-up work order was automatically generated. The
+seepage continued undetected as a priority item until it visibly worsened
+three months later, resulting in an emergency shutdown and seal
+replacement (cross-ref WO-2201).
+
+CONTRIBUTING FACTORS:
+1. No system exists to automatically flag "monitor" status items for
+mandatory re-inspection within a defined window.
+2. Reliance on the next scheduled quarterly inspection cycle (3 months)
+allowed a degrading condition to go unaddressed for longer than necessary.
+
+CORRECTIVE ACTION RECOMMENDED:
+Any equipment condition logged as "monitor" during a work order should
+automatically trigger a mandatory re-inspection task within 30 days,
+independent of the regular maintenance schedule.
+
+STATUS: Recommendation accepted, to be incorporated into maintenance
+scheduling process from Q4 2025.

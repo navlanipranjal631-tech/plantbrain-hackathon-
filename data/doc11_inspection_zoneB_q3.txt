@@ -1,0 +1,19 @@
+INSPECTION REPORT #IR-0341
+Type: Quarterly Safety & Equipment Inspection
+Zone: Zone B (Cooling Tower Area)
+Date: 15 September 2025
+Inspector: K. Nair (Area Safety Officer)
+
+FINDINGS:
+1. Pump-204: Minor oil seepage at shaft seal noted (cross-ref WO-2118,
+WO-2201). Seal has since been replaced under emergency work order. Closed.
+2. Fixed gas detector GD-B-04 (Zone B, near cooling tower base): Last
+calibration date 20 June 2025, within 90-day window. Compliant.
+3. Emergency shower and eyewash station B-2: Tested, functional.
+4. Housekeeping: Minor oil residue on floor near Pump-204 platform,
+flagged for cleanup, not safety-critical.
+5. Signage: Confined space entry signage at Tank B-7 found faded,
+recommend replacement.
+
+OVERALL STATUS: Satisfactory with minor corrective actions (signage
+replacement, housekeeping) to be closed within 30 days.

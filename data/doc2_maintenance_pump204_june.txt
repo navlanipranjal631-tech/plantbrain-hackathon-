@@ -1,0 +1,12 @@
+MAINTENANCE WORK ORDER #WO-2118
+Equipment: Pump-204 (Cooling Water Circulation Pump)
+Date: 12 June 2025
+Location: Zone B, Cooling Tower Area
+Reported Issue: Scheduled follow-up inspection after bearing replacement on
+12 March 2025 (Ref: WO-2045).
+Technician: R. Sharma
+Action Taken: Vibration re-checked, reading 2.4 mm/s (within IS 10816 limit
+of 4.5 mm/s). Lubrication topped up. No abnormal wear observed. Minor oil
+seepage noted at shaft seal, flagged for monitoring, not yet critical.
+Status: Closed
+Next Scheduled Inspection: 12 September 2025

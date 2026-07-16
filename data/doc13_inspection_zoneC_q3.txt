@@ -1,0 +1,15 @@
+INSPECTION REPORT #IR-0343
+Type: Quarterly Safety & Equipment Inspection
+Zone: Zone C (Material Handling Area)
+Date: 22 September 2025
+Inspector: P. Reddy (Deputy Safety Officer)
+
+FINDINGS:
+1. Motor-11 (Conveyor Drive): Operating normally post relay correction and
+alignment (cross-ref WO-2159). No abnormal noise or vibration observed.
+2. Conveyor guarding: All physical guards in place and secured.
+3. LOTO station C-3: Lock inventory verified complete (12 locks, 12 tags).
+4. Fire extinguishers: All 8 units in Zone C inspected, tags current,
+pressure gauges in green zone.
+
+OVERALL STATUS: Satisfactory. No corrective actions required.
